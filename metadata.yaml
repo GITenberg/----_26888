@@ -1,0 +1,29 @@
+_repo: '----_26888'
+_version: 0.1.0
+alternative_title:
+- 本草备要
+- Ben cao bei yao
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wang, Ang
+    alias: 汪昂
+    birthdate: 1615
+    gutenberg_agent_id: '32307'
+    url: http://www.gutenberg.org/2009/agents/32307
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26888'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RS'
+- !lcsh 'Materia medica -- China'
+title: 本草備要
+url: http://www.gutenberg.org/ebooks/26888
